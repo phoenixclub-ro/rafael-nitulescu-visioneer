@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <book id="bk101">
+    <author>John Smith</author>
+    <title>XML for Beginners</title>
+    <genre>Computer</genre>
+    <price>39.95</price>
+  </book>
+  <book id="bk102">
+    <author>Jane Doe</author>
+    <title>XSLT: The Ultimate Guide</title>
+    <genre>Computer</genre>
+    <price>49.95</price>
+  </book>
+</catalog>

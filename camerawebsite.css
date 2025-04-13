@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+#webcam {
+    width: 640px;
+    height: 480px;
+    border: 1px solid black;
+    margin: 20px auto;
+    display: block;
+}
+
+#media-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#display-image {
+    width: 200px;
+    height: auto;
+    margin: 10px auto;
+    display: none;
+}
+
+#song-player {
+    margin: 10px auto;
+    display: block;
+}
